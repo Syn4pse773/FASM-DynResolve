@@ -82,7 +82,6 @@ The resolver does not implement full `ld.so` semantics. In particular, it does n
 
 - `auxv.asm`: main FASM implementation.
 - `Makefile`: PIE and non-PIE dynamic builds.
-- `inspect_dyn.c`, `test_dyn.c`, `test_gdb.py`: local inspection/test helpers.
 
 ## License
 
