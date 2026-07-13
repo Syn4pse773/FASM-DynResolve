@@ -82,7 +82,7 @@ The resolver does not implement full `ld.so` semantics. In particular, it does n
 
 - `auxv.asm`: main FASM implementation.
 - `Makefile`: PIE and non-PIE dynamic builds.
-
+- `LICENSE`: GPLv2 license text.
 ## License
 
 This project is licensed under the GNU General Public License v2.0 (GPLv2). See `LICENSE` for details.
