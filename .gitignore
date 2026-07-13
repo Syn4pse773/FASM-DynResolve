@@ -1,0 +1,12 @@
+auxv
+auxv_static
+*.o
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
+test_auxv
+
+test_auxv.asm
+test_gdb.py
