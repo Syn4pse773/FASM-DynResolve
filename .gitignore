@@ -10,3 +10,7 @@ test_auxv
 
 test_auxv.asm
 test_gdb.py
+
+inspect_dyn.c
+test_dyn
+test_dyn.c
